@@ -159,5 +159,3 @@
 - `Field` (Поле, участок) ссылается на `Farm` (Ферма)
 - `Planting` (Что там выращивается) ссылается на `Variety`(вариации)
 - `Harvest` (урожай) ссылается на `Farm`, `Filed`, `Status`(Статус урожая)
-
-![Final_PDM.png](image%2FFinal_PDM.png)
